@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class ArraysImpl {
+public class ArrayImpl {
 
     private final int ARRAY_CAPACITY = 100000;
     private final int ARRAY_MAX = 1001;
