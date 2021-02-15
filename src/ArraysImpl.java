@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class ArraysImpl {
 
     private final int ARRAY_CAPACITY = 100000;
